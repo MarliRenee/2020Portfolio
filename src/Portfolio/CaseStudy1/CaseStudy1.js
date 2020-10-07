@@ -45,6 +45,7 @@ export default class CaseStudy1 extends Component {
                             </div>
                         "
                     />
+                    <hr class="rounded"></hr>
                 </div>    
                     
             </div>

@@ -17,3 +17,9 @@
 .CaseStudy button {
     background-color: transparent;
 }
+
+hr.rounded {
+    border: 1px solid #bbb;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}

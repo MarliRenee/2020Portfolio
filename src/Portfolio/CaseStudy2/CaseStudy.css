@@ -4,7 +4,22 @@
     padding-left: 10%;
 }
 
-.CaseStudy img {
+.Mockups2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    height: auto;
+}
+
+.CaseStudy2 img {
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+.Expectation img {
     width: 100%;
     height: auto;
 }
@@ -14,6 +29,6 @@
     height: auto;
 }
 
-.CaseStudy button {
+.CaseStudy2 button {
     background-color: transparent;
 }
