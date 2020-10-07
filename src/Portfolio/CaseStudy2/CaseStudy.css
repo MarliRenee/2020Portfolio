@@ -1,0 +1,19 @@
+.Portfolio {
+    padding-top: 6%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.CaseStudy img {
+    width: 100%;
+    height: auto;
+}
+
+.Preview img {
+    width: 50%;
+    height: auto;
+}
+
+.CaseStudy button {
+    background-color: transparent;
+}

@@ -5,6 +5,15 @@
 }
 
 .CaseStudy img {
-    width: 150px;
+    width: 100%;
     height: auto;
+}
+
+.Preview img {
+    width: 50%;
+    height: auto;
+}
+
+.CaseStudy button {
+    background-color: transparent;
 }
