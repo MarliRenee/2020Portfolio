@@ -8,9 +8,7 @@ export default class Navbar extends Component {
             <div className='Navbar'>
             <ul className="navbar">
                 <li className="Name">Marli Renee</li>
-                <li>Contact</li>
-                <li>Work</li>
-                <li>About</li>
+                <li><a href='mailto:marlirenee@gmail.com'>Contact</a></li>
             </ul>
                
             </div>

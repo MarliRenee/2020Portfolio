@@ -11,11 +11,15 @@ export default class Footer extends Component {
     render () {
         return (
             <div className='Footer'>
-            <div>
-                <FontAwesomeIcon icon={faEnvelope} />
-                <FontAwesomeIcon icon={['fab', 'github']} />
-                <FontAwesomeIcon icon={['fab', 'linkedin']} />
-            </div>
+                    <li>
+                        <a href='mailto:marlirenee@gmail.com'> <FontAwesomeIcon icon={faEnvelope}/> </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/MarliRenee" target="_blank"> <FontAwesomeIcon icon={['fab', 'github']}/> </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/in/marli-renee-4212211a6" target="_blank"><FontAwesomeIcon icon={['fab', 'linkedin']}/> </a>
+                    </li> 
             </div>
         )
     }

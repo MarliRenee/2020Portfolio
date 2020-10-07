@@ -1,5 +1,17 @@
 .Footer {
-    padding-top: 6%;
-    padding-right: 10%;
-    padding-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    height: auto;
+    padding-bottom: 40px;
+}
+
+.Footer li {
+    list-style: none;
+}
+
+.Footer a {
+    color: black;
 }

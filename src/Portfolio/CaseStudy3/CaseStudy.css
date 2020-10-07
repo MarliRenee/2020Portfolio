@@ -1,0 +1,34 @@
+.Portfolio {
+    padding-top: 6%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.Mockups3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    height: auto;
+}
+
+.CaseStudy2 img {
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+.Expectation img {
+    width: 100%;
+    height: auto;
+}
+
+.Preview img {
+    width: 50%;
+    height: auto;
+}
+
+.CaseStudy2 button {
+    background-color: transparent;
+}
