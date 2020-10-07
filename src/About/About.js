@@ -8,7 +8,8 @@ export default class About extends Component {
         return (
             <div className='About'>
                 <h2>About</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Marli Renee here. I'm a designer, developer & artist based in San Diego. I care about excellent, accessible education. My art, designs and multi-module courses have been used by government agencies, 
+                schools, and Fortune 500 companies. I started as a children's educational illlustrator, but curiosity eventually led me to UI/UX and full-stack web development. </p>
             </div>
         )
     }
