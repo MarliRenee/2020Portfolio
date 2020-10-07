@@ -3,3 +3,8 @@
     padding-right: 10%;
     padding-left: 10%;
 }
+
+.CaseStudy img {
+    width: 150px;
+    height: auto;
+}
