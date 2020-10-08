@@ -18,19 +18,20 @@ export default class CaseStudy1 extends Component {
             <div className='CaseStudy2'>
                 <div className='Title&Intro'>
                     <div className='Mockups2'>
-                        <img src='https://github.com/MarliRenee/2020Portfolio/blob/main/src/Assets/Aware/HomescreenGIF.gif?raw=true' alt ='A gif of the Aware app homescreen, scrolling through a demo'/>
+                        <img src='https://github.com/MarliRenee/Marli-Renee-Portfolio/blob/main/src/Assets/Aware/AwareMockups-06.png?raw=true' alt ='A set of 5 mobile mockups, showing different views of the Aware App'/>
                         
                     </div>
                     <Accordion 
                         title="
                             Aware: Cognitive Behavioral Therapy
                         " 
-                        content="
+                        content="   
+                            <div class='ScreenPreview'>
+                            <img src='https://github.com/MarliRenee/2020Portfolio/blob/main/src/Assets/Aware/HomescreenGIF.gif?raw=true' alt ='A gif of the Aware app homescreen, scrolling through a demo'/>
+                            </div>
+                            <div class='Process'>
                                 <p>Full-Stack Mobile App for Satir's Iceberg Processing Model</p>
                                 <p><a href='https://aware-app.vercel.app/'>Live App<a/> | <a href='https://github.com/MarliRenee/aware-app/tree/styling'>Repo<a/></p>
-
-                            </div>
-                            <div className='Process'>
                                 <h3>Process & Experience</h3>
                                 <div className='Expectation'>
                                     <p><b>Expectations:</b></p>
@@ -38,7 +39,7 @@ export default class CaseStudy1 extends Component {
                                     <p><i>Existing worksheet:</i></p>
                                     <img src='https://github.com/MarliRenee/2020Portfolio/blob/main/src/Assets/Aware/9510033b9ba59a54b4837a07024d956c.jpg?raw=true' alt='A spare, black and white drawing of an iceberg, segmented into 8 levels'/>
                                 </div>
-                                <p><i>A few of initial wireframes, created in Figma:</i></p>
+                                <p><i>A few of the initial wireframes, created in Figma:</i></p>
                                 <img src='https://github.com/MarliRenee/2020Portfolio/blob/main/src/Assets/Aware/AwareWireframes.png?raw=true' alt='Three iPhone mockup wireframes in shades of black and white'/>
                                 <a href='https://www.figma.com/proto/rcPOLOlMijmmkxlU4z1oF0/Aware-Wireframes?node-id=2%3A38&scaling=min-zoom'>View in Figma</a>
                                 <p>After testing the wireframes, it became clear that users wanted to be able to save their processing 'Iceberg', to save and reference for later. I created a user dashboard that could archive past interactions.</p>
