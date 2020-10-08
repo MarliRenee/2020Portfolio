@@ -4,7 +4,7 @@
     padding-left: 10%;
 }
 
-.Mockups3 {
+.Mockups2 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +13,7 @@
     height: auto;
 }
 
-.CaseStudy3 img {
+.CaseStudy2 img {
     width: 100%;
     margin: auto;
     height: auto;
@@ -24,11 +24,21 @@
     height: auto;
 }
 
-.Preview img {
-    width: 100%;
-    height: auto;
+.Close {
+    display: inline-flex;
 }
 
-.CaseStudy3 button {
+.ScreenPreview {
+    width: 40%;
+    height: auto;
+    margin-right: 20px;
+    float: left;
+}
+
+.Process p {
+    margin-top: 0;
+}
+
+.CaseStudy2 button {
     background-color: transparent;
 }

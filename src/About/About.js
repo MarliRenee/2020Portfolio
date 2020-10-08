@@ -9,8 +9,8 @@ export default class About extends Component {
             <div className='About'>
                 <h2>About</h2>
                 <p>
-                    Marli Renee here-based in San Diego. I care about excellent, accessible education. My designs have been used by government agencies, 
-                    schools, and Fortune 500 companies.
+                    Marli Renee here. I care about excellent, accessible design. My work has been used by government agencies, 
+                    schools, and Fortune 500 companies. I'm fueled by faith, breakfast sandwiches and Steven Universe.  
                 </p>
             </div>
         )

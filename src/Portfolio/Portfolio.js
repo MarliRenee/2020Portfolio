@@ -4,6 +4,8 @@ import CaseStudy1 from './CaseStudy1/CaseStudy1'
 import CaseStudy2 from './CaseStudy2/CaseStudy2'
 import CaseStudy3 from './CaseStudy3/CaseStudy3'
 import CaseStudy4 from './CaseStudy4/CaseStudy4'
+import Cynuria from './Cynuria/Cynuria'
+
 
 export default class Portfolio extends Component {
 
@@ -12,6 +14,7 @@ export default class Portfolio extends Component {
             <div className='Portfolio'>
                 <h2>Portfolio</h2>
                 <CaseStudy1 />
+                <Cynuria />
                 <CaseStudy2 />
                 <div className="final2">
                     <CaseStudy3 />

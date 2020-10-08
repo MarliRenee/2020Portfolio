@@ -18,7 +18,7 @@ export default class CaseStudy1 extends Component {
             <div className='CaseStudy3'>
                 <div className='Title&Intro'>
                     <div className='Mockups3'>
-                    <img src="https://github.com/MarliRenee/Marli-Renee-Portfolio/blob/main/src/Assets/CelebrateMockup.png?raw=true" alt="A mockup of the Celebrate App. The background is in soft pinks and purples, the text is bold and confident" />   
+                    <img src="https://github.com/MarliRenee/Marli-Renee-Portfolio/blob/main/src/Assets/CelebrateMockup-01.png?raw=true" alt="A mockup of the Celebrate App. The background is in soft pinks and purples, the text is bold and confident" />   
                     </div>
                     <Accordion 
                         title="

@@ -10,10 +10,11 @@
 
 .CaseStudy3 {
     float: left;
-    width: 50%
+    width: 50%;
+    padding: 10px;
 }
-
 .CaseStudy4 {
     width: 50%;
     float: right;
+    padding: 10px;
 }
