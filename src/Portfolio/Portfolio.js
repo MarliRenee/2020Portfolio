@@ -13,8 +13,10 @@ export default class Portfolio extends Component {
                 <h2>Portfolio</h2>
                 <CaseStudy1 />
                 <CaseStudy2 />
-                <CaseStudy3 />
-                <CaseStudy4 />
+                <div className="final2">
+                    <CaseStudy3 />
+                    <CaseStudy4 />
+                </div>
             </div>
         )
     }

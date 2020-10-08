@@ -15,10 +15,10 @@ export default class CaseStudy1 extends Component {
         library.add(fab)
 
         return (
-            <div className='CaseStudy'>
+            <div className='CaseStudy4'>
                 <div className='Title&Intro'>
                     <div className='Mockups4'>
-                        <img src='https://raw.githubusercontent.com/MarliRenee/Portfolio/master/PortfolioAssets/IntroQuiz.png' alt='A screenshot of the Intro to Accessibility Quiz. The background is in soft green and blue, the text is bold and confident' />     
+                        <img src='https://github.com/MarliRenee/Marli-Renee-Portfolio/blob/main/src/Assets/AccessibilityMockup-01.png?raw=true' alt='A screenshot of the Intro to Accessibility Quiz. The background is in soft green and blue, the text is bold and confident' />     
                     </div>
                     <Accordion 
                         title="
